@@ -1,0 +1,14 @@
+{
+  "name": "vinhos",
+  "version": "1.0.0",
+  "description": "Wine in Git",
+  "main": "protractor.conf.js",
+  "scripts": {
+    "test": "webdriver-manager update && protractor"
+  },
+  "author": "Anderson Vieira",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
