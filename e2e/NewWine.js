@@ -1,4 +1,4 @@
-const constants = require("../constants/constants")
+const constants = require("../constants/constants");
 const Wine = require('../page-objects/po-vinhos');
 const Helper = require("protractor-helper");
 
