@@ -4,7 +4,7 @@
   "description": "Wine in Git",
   "main": "protractor.conf.js",
   "scripts": {
-    "test": "webdriver-manager update && protractor"
+    "test": "protractor"
   },
   "author": "Anderson Vieira",
   "license": "ISC",
